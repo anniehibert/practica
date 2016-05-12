@@ -52,5 +52,3 @@ int main(void)
 	printf ("%d coins\n", coins);
 	printf ("change is %d\n", change);
 	printf ("%d quarters and %d dimes and %d nickles and %d pennies\n", qcount, dcount, ncount, pcount);
-
-}
